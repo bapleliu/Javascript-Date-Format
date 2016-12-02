@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    margin-left: 10%;
+}
+.title {
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    line-height: 100px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+.introduction {
+    margin: 10px 0;
+    width: 100%;
+    background-color: antiquewhite;
+    line-height: 24px;
+    border-radius: 3px;
+}
+.introduction div {
+    margin: 20px 0;
+    text-indent: 2em;
+}
+.date {
+    margin: 10px 0;
+}
+.date-demo {
+    border: 1px solid #d7d7d7;
+    background: #fafafa;
+    border-left-width: 5px;
+    margin: 6px auto;
+    font-size: 12px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-size: 14px;
+}
+.js__string,
+.js__sl_comment {
+    color: teal;
+}
+.main_table td {
+    line-height: 26px;
+    padding: 17px;
+    border-bottom: 1px solid #d3d3d3;
+    border-right: 1px solid #d3d3d3;
+    border-left: 1px solid #d3d3d3;
+}
+.table_title {
+    background: #f7f7f7;
+    padding: 6px;
+    text-align: center;
+    font-weight: bold;
+    height: 60px;
+}
